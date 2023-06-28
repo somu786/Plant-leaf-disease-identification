@@ -1,0 +1,12 @@
+import React from 'react';
+
+function RemedialMeasures() {
+  return (
+    <div>
+      <h1>Remedial Measures</h1>
+      <p>Add your remedial measures here</p>
+    </div>
+  );
+}
+
+export default RemedialMeasures;
