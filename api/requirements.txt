@@ -1,5 +1,5 @@
 tensorflow==2.5.0
-fastapi
+"fastapi[all]"
 uvicorn
 python-multipart
 pillow
